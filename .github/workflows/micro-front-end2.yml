@@ -5,7 +5,7 @@ on:
     banches:
       - master
     paths:
-      - 'pakage/micro-front-end2/**'
+      - 'packages/micro-front-end2/**'
 
 default:
   run:

@@ -5,7 +5,7 @@ on:
     banches:
       - master
     paths:
-      - 'pakage/container/**'
+      - 'packages/container/**'
 
 default:
   run:
